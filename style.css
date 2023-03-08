@@ -1,5 +1,6 @@
-.img{
-flex: 300px;
-
+#img{
+    display: flex;
+    flex-direction: column;
+    
 
 }
