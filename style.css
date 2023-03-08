@@ -1,6 +1,11 @@
-#img{
+#container{
     display: flex;
     flex-direction: column;
-    
+
+
+}
+
+#maining{
+    width: 300px;
 
 }
