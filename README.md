@@ -1,2 +1,2 @@
 # rally
-Ez az "első" rally repositorim
+Ez az ''első'' rally repositorim
